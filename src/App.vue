@@ -83,7 +83,7 @@ export default {
           this.contains(name, this.searchName) &&
           this.contains(state, this.searchState)
         );
-      })
+      });
     },
   },
 };
