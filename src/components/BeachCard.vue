@@ -62,7 +62,7 @@ export default {
   position: absolute;
   bottom: 0px;
   left: 0px;
-  bottom: -260px;
+  bottom: -270px;
   width: 100%;
   padding: 20px;
   box-sizing: border-box;
@@ -89,5 +89,6 @@ export default {
   font-size: 14px;
   height: 230px;
   overflow: hidden;
+  margin-top: 30px;
 }
 </style>
