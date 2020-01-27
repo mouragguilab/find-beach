@@ -23,6 +23,9 @@
         <option value="" disabled selected>
           Estado
         </option>
+        <option value="">
+          Todos
+        </option>
         <option
           :key="state"
           v-for="state in statesOptions"
