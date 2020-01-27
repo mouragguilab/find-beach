@@ -23,17 +23,12 @@
         <option value="" disabled selected>
           Estado
         </option>
-        <option value="">Todos</option>
-        <option value="AL">AL</option>
-        <option value="BA">BA</option>
-        <option value="CE">CE</option>
-        <option value="PB">PB</option>
-        <option value="PE">PE</option>
-        <option value="PI">PI</option>
-        <option value="RJ">RJ</option>
-        <option value="RN">RN</option>
-        <option value="SC">SC</option>
-        <option value="SP">SP</option>
+        <option
+          :key="state"
+          v-for="state in statesOptions"
+        >
+          {{ state }}
+        </option>
       </select>
     </div>
     <div class="beaches-page__beaches">
@@ -59,6 +54,7 @@ export default {
     beaches: [],
     searchName: '',
     searchState: '',
+    statesOptions: new Set(),
   }),
   mounted() {
     this.loadBeachs();
@@ -69,7 +65,10 @@ export default {
     },
     loadBeachs() {
       axios.get('https://us-central1-desafio-funretro.cloudfunctions.net/getBeaches')
-        .then(({ data }) => this.beaches = data)
+        .then(({ data }) => {
+          this.beaches = data;
+          this.beaches.forEach(beach => this.statesOptions.add(beach.state));
+        });
     },
   },
   computed: {
