@@ -70,7 +70,9 @@ export default {
       axios.get('https://us-central1-desafio-funretro.cloudfunctions.net/getBeaches')
         .then(({ data }) => {
           this.beaches = data;
-          this.beaches.forEach(beach => this.statesOptions.add(beach.state));
+          this.beaches
+            .sort((b1, b2) => b1.state > b2.state ? 1 : -1)
+            .forEach(beach => this.statesOptions.add(beach.state));
         });
     },
   },
