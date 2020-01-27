@@ -2,7 +2,7 @@
   <div class="beaches-page">
     <header class="beaches-page__header">
       <h1 class="beaches-page__header__title">
-        Find Beaches
+        Find Beach
       </h1>
       <img
         class="beaches-page__header__logo"
@@ -106,10 +106,19 @@ body {
 .beaches-page__header__title {
   font-size: 40px;
   margin: 0px;
+
+  @media (max-width: 400px) {
+    display: none;
+  }
 }
 
 .beaches-page__header__logo {
   height: 70px;
+  transition: height .3s;
+
+  @media (max-width: 400px) {
+    height: 100px;
+  }
 }
 
 .beaches-page__beaches {
@@ -117,6 +126,10 @@ body {
   justify-content: center;
   grid-template-columns: repeat(auto-fit, 300px);
   grid-gap: 20px;
+
+  @media (max-width: 360px) {
+    grid-template-columns: 1fr;
+  }
 }
 
 .search-filter {

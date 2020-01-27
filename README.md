@@ -1,4 +1,4 @@
-# find-beaches
+# find-beach
 
 ## Project setup
 ```

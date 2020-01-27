@@ -28,7 +28,7 @@ export default {
 <style lang="scss" scoped>
 .beach-card {
   position: relative;
-  width: 300px;
+  width: 100%;
   height: 450px;
   overflow: hidden;
   cursor: pointer;
