@@ -1,0 +1,142 @@
+[
+  {
+    "description" : "A Praia do Gunga é uma das praias paradisíacas do nordeste mais conhecida. Como muitas pessoas ficam em Maceió acabam fazendo o passeio até lá, o lugar em bem acessível. É famosa pelas falésias espalhadas pelo ambiente, onde é possível fazer passeios de buggy além de aproveitar um banho na água salgada do mar.",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/desafio-funretro.appspot.com/o/praias-paradisiacas-no-Brasil-1.png?alt=media&token=1495afa9-aebd-4d5e-9c9d-f2e257a141b9",
+    "location" : "Roteiro",
+    "name" : "Praia do Gunga",
+    "state" : "AL"
+  },
+  {
+    "description" : "Uma das praias paradisíacas na Bahia que é conhecida internacionalmente é a Praia do Espelho. O mais recomendado é visitar o local quando estiver com maré baixa, ai você pode entender o significado do “espelho”, onde é possível ver o reflexo do céu nas águas do mar. No entanto, o local também é interessante por conta da vegetação que cerca, dando a impressão de uma praia mais afastada e deserta.",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/desafio-funretro.appspot.com/o/es.jpg?alt=media&token=5c595ded-954c-4dde-a6c8-711ab87de926",
+    "location" : "Trancoso",
+    "name" : "Praia do Espelho",
+    "state" : "BA"
+  },
+  {
+    "description" : "Uma das melhores praias do Brasil é a do Félix, porque lá você não vai precisar se preocupar com nada. O ambiente é conhecido por ser quase deserto e atrair muitos turistas que buscam tranquilidade, as águas são calmas de um lado e agitadas de outros, assim tanto aqueles que querem flutuar quanto os que buscam surfar conseguem encontrar o ponto perfeito.",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/desafio-funretro.appspot.com/o/praias-paradisiacas-no-Brasil-1.jpeg?alt=media&token=1085c378-3ad1-47c0-8c22-042223a67f2f",
+    "location" : "Ubatuba",
+    "name" : "Praia do Félix",
+    "state" : "SP"
+  },
+  {
+    "description" : "Bem próxima dos Lençóis Maranhenses, a praia de Atins faz sucesso entre os turistas. O local é conhecido pelos ventos fortes que possibilitam atividades como kitesurf, além de ter ruas de areia e inúmeros quiosques. No entanto, o grande diferencial da praia é que é possível encontrar lagoas dos lençóis com grande facilidade.",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/desafio-funretro.appspot.com/o/antis.jpg?alt=media&token=9b7a24e3-4a11-4abf-bd1e-a7846cac7b79",
+    "location" : "Atins",
+    "name" : "Praia de Atins",
+    "state" : "MA"
+  },
+  {
+    "description" : "A praia do Moreré é um dos trechos mais tranquilos do litoral brasileiro e não podia faltar na nossa lista de praias paradisíacas. O grande atrativo do lugar são as mudanças na maré, que uma hora invade a areia e outra deixa os barcos encalhados. Esse passeio é conhecido por visitantes que estão no Morro de São Paulo e querem aproveitar um pouco mais dos mares baianos.",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/desafio-funretro.appspot.com/o/Morer%C3%A9.jpg?alt=media&token=309c55c0-f44b-41a6-8c68-64cc8720cac9",
+    "location" : "Boipeba",
+    "name" : "Praia do Moreré ",
+    "state" : "BA"
+  },
+  {
+    "description" : "As prainhas tem esse nome porque na verdade são duas praias, que quando a maré está baixa se unem em uma única faixa de areia. Elas compõem as praias paradisíacas no Rio de Janeiro, sendo que lá você vai encontrar águas sempre calmas e transparentes, com areias branquinhas em sua volta. Lembrando que a coloração do mar pode variar de verde a um azul bem vivo. E aí, qual você prefere?",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/desafio-funretro.appspot.com/o/Prainhas.jpg?alt=media&token=b2dbcbbb-9f45-41c3-89e1-dccb83467a86",
+    "location" : "Arraial do Cabo",
+    "name" : "Prainhas",
+    "state" : "RJ"
+  },
+  {
+    "description" : "Para visitar a Coroa do Avião é preciso sair da Praia do Forte e fazer o percurso de barco. O lugar é ideal para quem quer se afastar um pouco das coisas, já que a ilha não possui muita infraestrutura. Como as águas são quentes e calmas, muitas pessoas optam por nadar e boiar no mar tranquilo.",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/desafio-funretro.appspot.com/o/coroa.jpg?alt=media&token=c5fbb3bf-b4b4-4853-861d-3038116c4543",
+    "location" : "Ilha de Itamaracá",
+    "name" : "Coroa do Avião",
+    "state" : "PE"
+  },
+  {
+    "description" : "Você está afim de relaxar e descansar em uma das praias paradisíacas do Brasil? A Praia de Antunes é uma das mais famosas da região, já que possui uma grande quantidade de atividades. Lá você pode fazer passeios de caiaque e vela, além de curtir a paisagem de coqueiros andando de buggy na areia beira mar. Mas para dizer que esteve em Antunes, não pode deixar de mergulhar em uma das piscinas naturais.",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/desafio-funretro.appspot.com/o/Antunes.jpg?alt=media&token=fa67f280-13f2-4dbb-97ba-48251dcd0bf0",
+    "location" : "Maragogi",
+    "name" : "Praia de Antunes",
+    "state" : "AL"
+  },
+  {
+    "description" : "Em algum momento você já deve ter ouvido falar na Praia dos Carneiros. O local chama a atenção de muitos visitantes porque tem uma igreja bem na frente do mar, chamada Capela de São Benedito. É considerada uma das praias mais lindas do Brasil porque além de todo aspecto cultural, você também pode aproveitar as piscinas naturais e curtir uma água bem esverdeada.",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/desafio-funretro.appspot.com/o/Carneiros.jpg?alt=media&token=94ef300b-00d0-40fe-9cd8-204d4ebdaff8",
+    "location" : "Tamandaré",
+    "name" : "Praia dos Carneiros",
+    "state" : "PE"
+  },
+  {
+    "description" : "A Praia de Tambaba é uma das melhores praias do Brasil e possui diversas curiosidades. A primeira é o coqueiro solitário que está localizado em cima de uma das pedras, tornando-se a imagem de caixa postal da praia. Outra curiosidade sobre o ambiente é que existe uma parte voltada para a prática de naturismo, onde muitos surfistas vão competir e aproveitar as ondas.",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/desafio-funretro.appspot.com/o/Tambaba.jpg?alt=media&token=f3cd718f-3861-494f-81a3-4de7bdc8b7f0",
+    "location" : "Conde",
+    "name" : "Praia de Tambaba",
+    "state" : "PB"
+  },
+  {
+    "description" : "Essa é sem dúvida uma das praias mais famosas do Brasil. Se você está procurando um destino que tenha águas quentinhas e você possa praticar esportes, a Praia do Madeiro é a ideal. O ambiente é reconhecido internacionalmente por ser propício para práticas de esportes como futebol e surf para iniciantes. Mas além disso, a grande surpresa é a presença de golfinhos no período da manhã.",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/desafio-funretro.appspot.com/o/Madeiro.jpg?alt=media&token=24185958-6d13-45e6-b847-fcce26694963",
+    "location" : "Pipa",
+    "name" : "Praia do Madeiro",
+    "state" : "RN"
+  },
+  {
+    "description" : "Uma das praias paradisíacas no Brasil que você já deve ter ouvido falar é a Baía do Sancho. Lá é o lugar ideal para você praticar mergulho livre, ver as espécies marinhas bem do seu lado debaixo de uma água quase transparente. Além disso, também é possível fazer trilhas e subir nas montanhas, onde a visão dos mirantes costuma deslumbrar os turistas.",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/desafio-funretro.appspot.com/o/Sancho.jpg?alt=media&token=3a0d2681-6ea0-441b-bbe0-0b8d50c2cc54",
+    "location" : "Fernando de Noronha",
+    "name" : "Baía do Sancho",
+    "state" : "PE"
+  },
+  {
+    "description" : "Se você está buscando um lugar onde pode praticar esportes na água e se aventurar, Barra Grande deve entrar na sua lista de prioridades. É uma das melhores praias para conhecer no Brasil, porque a prática de kitesurf e windsurf está muito presente em decorrência dos ventos fortes.",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/desafio-funretro.appspot.com/o/Grande.jpg?alt=media&token=f615b172-e190-46a9-9b65-4c0b44e1cc54",
+    "location" : "Cajueiro da Praia",
+    "name" : "Barra Grande",
+    "state" : "PI"
+  },
+  {
+    "description" : "Um labirinto de falésias se encontra no Morro Branco. Essa é mais uma das praias paradisíacas do Ceará, onde você pode fazer passeios de buggy, e jangada e navegar pelas lagoas. Quando visitar, não esqueça de percorrer a rotas das falésias e encontrar o mar no fundo.",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/desafio-funretro.appspot.com/o/morro.jpg?alt=media&token=50f38cac-dfd3-47cb-b600-22bc36d36ff9",
+    "location" : "Beberibe",
+    "name" : "Morro Branco",
+    "state" : "CE"
+  },
+  {
+    "description" : "Já pensou na combinação de água salgada e doce? Então, você pode ter o melhor dos dois mundos na Praia de Jeribucaçu, já que um rio passa pela areia e desemboca no mar. Existe uma grande extensão de areia, onde é possível fazer caminhadas e praticar esportes enquanto aprecia a natureza envolta.",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/desafio-funretro.appspot.com/o/Jeribuca%C3%A7u.jpg?alt=media&token=358a447a-5336-4d24-8410-a36e5b96b5c3",
+    "location" : "Itacaré",
+    "name" : "Praia de Jeribucaçu",
+    "state" : "BA"
+  },
+  {
+    "description" : "Um das praias paradisíacas no Rio de Janeiro é a Praia do Forno. O grande diferencial desse ambiente é que está localizado em meio à montanhas e mata atlântica, por isso as trilhas até o topo dos mirantes valem a pena. Além disso, o mar é um pouco mais gelado do que o normal, propício para pessoas que querem tentar um mergulho.",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/desafio-funretro.appspot.com/o/Forno.jpg?alt=media&token=db8f6e4d-fb15-436f-b0dd-f0f1f56bcec6",
+    "location" : "Arraial do Cabo",
+    "name" : "Praia do Forno",
+    "state" : "RJ"
+  },
+  {
+    "description" : "Para quem curte um ambiente mais isolado, que é preciso fazer trekking e trilha no meio da mata, a praia de Martins de Sá é uma ótima opção. O local também é um grande ponto de camping, por isso, em alta temporada não se assuste com a quantidade de barracas. Mas quanto às águas do mar e a areia da praia: é só relaxar e aproveitar.",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/desafio-funretro.appspot.com/o/Martins.jpg?alt=media&token=7542c173-1695-4b1d-ad9d-2f11cd7378fe",
+    "location" : "Paraty",
+    "name" : "Martins de Sá",
+    "state" : "RJ"
+  },
+  {
+    "description" : "Considerada, internacionalmente, uma das praias mais bonitas do Brasil, a Praia do Bonete atrai diversos turistas. A orla é rodeada de árvores e conquista os visitantes com sua longa trilha, onde é possível conhecer duas cachoeiras e ainda admirar a visão do topo. Mas chegando na areia, dá para perceber um mar agitado, perfeito para surfistas e amantes de esportes aquáticos.",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/desafio-funretro.appspot.com/o/Bonete.jpg?alt=media&token=dd39203d-c95e-43f7-a745-f599d7ad440b",
+    "location" : "Ilhabela",
+    "name" : "Praia do Bonete",
+    "state" : "SP"
+  },
+  {
+    "description" : "A casa das ondas fortes de Alagoas é a praia do Francês. É considerada uma das praias paradisíacas no Brasil porque conquista os visitantes que amam esportes radicais. Com as ondas e ventos fortes, é possível se aventurar no mar. Pensando que a praia está perto de Maceió, normalmente é um passeio de bate e volta.",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/desafio-funretro.appspot.com/o/Franc%C3%AAs.jpg?alt=media&token=4603f07c-faaf-4e6b-aca9-20dc4d0dacc4",
+    "location" : "Marechal Deodoro",
+    "name" : "Praia do Francês",
+    "state" : "AL"
+  },
+  {
+    "description" : "A Praia do Forte é o destino mais conhecido de São João da Mata. É uma vila de pescadores onde, surpreendentemente, o que move a região é o turismo. Lá além dos corais e beleza exuberante, você vai encontrar uma grande sede do projeto Tamar, dedicado na preservação de tartarugas-marinhas.",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/desafio-funretro.appspot.com/o/praias-paradisiacas-no-Brasil-32.jpg?alt=media&token=e2b55fcc-9682-431a-88d8-058e27197c68",
+    "location" : "São João da Mata",
+    "name" : "Praia do Forte",
+    "state" : "BA"
+  }
+]
